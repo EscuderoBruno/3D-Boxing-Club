@@ -13,7 +13,7 @@ Proyecto de modelado 3D de un gimnasio clandestino de boxeo, inspirado en la est
 
 ---
 
-## Renders
+## 📷 Renders
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
   <img src="https://github.com/user-attachments/assets/81e1d044-b6d0-4da9-b32d-bcd0e88d9041" alt="trofeos" width="32%" />
